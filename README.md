@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### 🌱 I’m currently learning Web Development(React) and Competitive Programming. 
-📫 How to reach me: sumanj631@gmail.com
+## 📫 How to reach me: sumanj631@gmail.com
 <!--
 **Suman-Jaiswal/Suman-Jaiswal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
