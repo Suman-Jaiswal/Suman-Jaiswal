@@ -1,7 +1,7 @@
 ## Member of 🏢 **[IITI-Gymkhana-Web-Team](https://github.com/IITI-Gymkhana-Web-Team)**
 ## Hi there 👋
-### 🌱 I’m currently learning Web Development(React) and Competitive Programming. 
-### 📫 How to reach me: sumanj631@gmail.com
+#### 🌱 I’m currently learning Web Development(React) and Competitive Programming. 
+#### 📫 How to reach me: sumanj631@gmail.com
 <!--
 **Suman-Jaiswal/Suman-Jaiswal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
