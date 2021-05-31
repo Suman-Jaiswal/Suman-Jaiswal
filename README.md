@@ -14,7 +14,7 @@
 <details open="true">
 <summary><span><b>📫Connect with me</b></span></summary>
 <p align="center">
-<code><a href="https://image.flaticon.com/icons/png/512/61/61109.png" alt="skj9436" height="30" width="40" /></a></code>
+<code><a href="https://www.linkedin.com/in/skj9436/" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Linkedin_svg-128.png" alt="skj9436" height="30" width="40" /></a></code>
 <code><a href="mailto:sumanj631@gmail.com" target="blank"><img align="center" src="https://cdn0.iconfinder.com/data/icons/social-circle-3/72/Email-128.png" alt="12136201" height="30" width="40" /></a></code>
 <code><a href="https://instagram.com/suman__jaiswal_" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Instagram_svg-128.png" alt="garvit.05" height="30" width="40" /></a></code>
 </p>
