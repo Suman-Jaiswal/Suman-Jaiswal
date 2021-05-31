@@ -1,7 +1,27 @@
-## Member of 🏢 **[IITI-Gymkhana-Web-Team](https://github.com/IITI-Gymkhana-Web-Team)**
-## Hi there 👋
-#### 🌱 I’m currently learning Web Development(React) and Competitive Programming. 
-#### 📫 How to reach me: sumanj631@gmail.com
+## Hey there! 👋 This is <b>Suman jaiswal 😄 </b>
+### Member of 🏢 **[IITI-Gymkhana-Web-Team](https://github.com/IITI-Gymkhana-Web-Team)**
+<span align="right"> <img src="https://komarev.com/ghpvc/?username=suman-jaiswal&label=Profile%20views&color=0e75b6&style=flat" alt="suman-jaiswal" /></span> 
+
+<p align="center"><br>
+  <samp>
+    「 B.Tech EE @  <b>IIT Indore</b> 」<br>
+    「 I am a Developer 」<br>
+  </samp>
+</p>
+
+### 🌱 <b> Web Development and Competitive Programming. </b>
+
+<details open="true">
+<summary><span><b>📫Connect with me</b></span></summary>
+<p align="center">
+<code><a href="https://www.linkedin.com/in/skj9436/" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Linkedin_svg-128.png" alt="skj9436" height="30" width="40" /></a></code>
+<code><a href="mailto:sumanj631@gmail.com" target="blank"><img align="center" src="https://cdn0.iconfinder.com/data/icons/social-circle-3/72/Email-128.png" alt="12136201" height="30" width="40" /></a></code>
+<code><a href="https://instagram.com/suman__jaiswal_" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Instagram_svg-128.png" alt="garvit.05" height="30" width="40" /></a></code>
+</p>
+</details>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suman-Jaiswal&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Suman-Jaiswal/Suman-Jaiswal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -51,6 +71,6 @@ Here are some ideas to get you started:
 
 ![Suman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suman-Jaiswal&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suman-Jaiswal&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Suman-jaiswal&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
