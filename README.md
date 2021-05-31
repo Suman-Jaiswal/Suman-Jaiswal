@@ -43,14 +43,14 @@ Here are some ideas to get you started:
 <code><a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40" /> </a></code>
 </p>
 
-
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=suman-jaiswal&theme=tokyonight" alt="suman-jaiswal" /></p>
 
 
 <hr>
 
 
 ![Suman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suman-Jaiswal&show_icons=true&theme=radical)
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=suman-jaiswal&theme=tokyonight" alt="suman-jaiswal" /></p>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suman-Jaiswal&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Suman-jaiswal&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
