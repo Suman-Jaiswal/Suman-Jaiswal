@@ -14,9 +14,9 @@
 <details open="true">
 <summary><span><b>📫Connect with me</b></span></summary>
 <p align="center">
-<code><a href="https://www.linkedin.com/in/skj9436/" target="blank"><img align="center" src="https://thumbs.dreamstime.com/b/colored-linkedin-logo-colored-linkedin-logo-vector-ai-file-easily-editable-have-white-background-high-resolution-155698459.jpg" alt="skj9436" height="30" width="40" /></a></code>
+<code><a href="https://www.linkedin.com/in/skj9436/" target="blank"><img align="center" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG38.png" alt="skj9436" height="30" width="40" /></a></code>
 <code><a href="mailto:sumanj631@gmail.com" target="blank"><img align="center" src="https://cdn0.iconfinder.com/data/icons/social-circle-3/72/Email-128.png" alt="12136201" height="30" width="40" /></a></code>
-<code><a href="https://instagram.com/suman__jaiswal_" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Instagram_svg-128.png" alt="garvit.05" height="30" width="40" /></a></code>
+<code><a href="https://instagram.com/suman__jaiswal_" target="blank"><img align="center" src="https://i.pinimg.com/474x/63/cb/74/63cb74c62c563351d1fbac26edf3416c.jpg" alt="garvit.05" height="30" width="40" /></a></code>
 </p>
 </details>
 
