@@ -1,8 +1,8 @@
-## Hey there! 👋 This is <b>Suman jaiswal 😄 </b>
+## Hey there! 👋 This is <b>Suman jaiswal&#129299; </b>
 ### Member of 🏢 **[IITI-Gymkhana-Web-Team](https://github.com/IITI-Gymkhana-Web-Team)**
 <span align="right"> <img src="https://komarev.com/ghpvc/?username=suman-jaiswal&label=Profile%20views&color=0e75b6&style=flat" alt="suman-jaiswal" /></span> 
 
-<p align="center"><br>
+<p align="center">
   <samp>
     「 B.Tech EE @  <b>IIT Indore</b> 」<br>
     「 I am a Developer 」<br>
