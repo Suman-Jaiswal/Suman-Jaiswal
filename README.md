@@ -61,6 +61,7 @@ Here are some ideas to get you started:
 <p align="center">
 <code><a href="https://www.mysql.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40" /> </a></code>
 <code><a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40" /> </a></code>
+<code><a href="https://www.firebase.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" /> </a></code>
 </p>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=suman-jaiswal&theme=tokyonight" alt="suman-jaiswal" /></p>
