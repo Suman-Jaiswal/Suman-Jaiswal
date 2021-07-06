@@ -46,6 +46,7 @@ Here are some ideas to get you started:
 <code><a href="https://sass-lang.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" width="40" height="40" /> </a></code>
 <code><a href="https://getbootstrap.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40"/> </a></code> 
 <code><a href="https://reactjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40" /> </a></code>
+<code><a href="https://www.materialui.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/materialui/materialui-icon.svg" alt="mongodb" width="40" height="40" /> </a></code>
 </p>
 
 <h3>Backend</h3>
