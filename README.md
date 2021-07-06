@@ -55,7 +55,6 @@ Here are some ideas to get you started:
 <code><a href="https://expressjs.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="40" height="40" /> </a></code>
 <code><a href="https://www.python.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40" /> </a></code>
 <code><a href="https://www.djangoproject.org" target="_blank"> <img src="https://logo.clearbit.com/djangoproject.com" alt="django" width="40" height="40" /> </a></code>
-<code><a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40" /> </a></code>
 <code><a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" /> </a></code>
 </p>
 
