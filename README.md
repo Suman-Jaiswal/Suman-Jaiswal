@@ -72,6 +72,6 @@ Here are some ideas to get you started:
 
 
 ![Suman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suman-Jaiswal&show_icons=true&theme=radical) <span> _ </span>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suman-Jaiswal&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suman-Jaiswal&theme=tokyonight)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Suman-jaiswal&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
