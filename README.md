@@ -1,6 +1,10 @@
-## Hey there! 👋 This is <b>Suman Jaiswal&#129299; </b>
-### Software Developer
-<span align="right"> <img src="https://komarev.com/ghpvc/?username=suman-jaiswal&label=Profile%20views&color=0e75b6&style=flat" alt="suman-jaiswal" /></span> 
+### Welcome to My GitHub Profile! 👋
+
+I'm Suman Jaiswal, a passionate Software Developer pursuing a B.Tech in Electrical Engineering at IIT Indore. My interests lie in Tech Development.
+
+<span align="right">
+  <img src="https://komarev.com/ghpvc/?username=suman-jaiswal&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</span>
 
 <p align="center">
   <samp>
