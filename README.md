@@ -1,11 +1,12 @@
 ### Welcome to My GitHub Profile! 👋
 
+<h4>  I'm Suman Jaiswal </h4>
+
 A passionate Software Developer with a keen interest in Technology Innovations.
 
 <div style="display: flex; flex-direction: row; justify-content: space-between; align-items: center;">
-  <h4>  I'm Suman Jaiswal </h4>
  <div style="display: flex; flex-direction: row; gap: 5px; align-items: center;" >
-   <img src="https://media.licdn.com/dms/image/D4D03AQE3-qHxwKzTyw/profile-displayphoto-shrink_100_100/0/1667492389163?e=1703721600&v=beta&t=j9KcrnMbMWAx5cUK6c0l8eyGb8IVBJXppEedeOKvEaI" style="border-radius: 50px; width: 30px" />
+   <img src="https://media.licdn.com/dms/image/D4D03AQE3-qHxwKzTyw/profile-displayphoto-shrink_100_100/0/1667492389163?e=1703721600&v=beta&t=j9KcrnMbMWAx5cUK6c0l8eyGb8IVBJXppEedeOKvEaI" style="border-radius: 50px; width: 20px" />
   <img src="https://komarev.com/ghpvc/?username=suman-jaiswal&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 </div>
