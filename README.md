@@ -93,13 +93,8 @@ A passionate Software Developer with a keen interest in Technology Innovations.
 <hr style="height: 1px; background-color: #ddd; margin-top: 0;"/>
 
 <p align="center"><img style="height: 200px;" src="https://github-readme-streak-stats.herokuapp.com/?user=suman-jaiswal&theme=tokyonight" alt="suman-jaiswal" /></p>
-
-<div align="center" style="display: flex; gap: 20px;">
-<img style="height: 200px;" src="https://github-readme-stats.vercel.app/api?username=Suman-Jaiswal&show_icons=true&theme=radical">
-</img>
-<img style="height: 200px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suman-Jaiswal&layout=compact&theme=tokyonight">
-</img>
-</div>
+<p align="center"><img style="height: 200px;" src="https://github-readme-stats.vercel.app/api?username=Suman-Jaiswal&show_icons=true&theme=radical" alt="suman-jaiswal" /></p>
+<p align="center"><img style="height: 200px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suman-Jaiswal&layout=compact&theme=tokyonight" alt="suman-jaiswal" /></p>
 
 <br/>
 
