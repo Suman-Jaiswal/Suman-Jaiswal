@@ -94,10 +94,9 @@ A passionate Software Developer with a keen interest in Technology Innovations.
 
 <p align="center"><img style="height: 200px;" src="https://github-readme-streak-stats.herokuapp.com/?user=suman-jaiswal&theme=tokyonight" alt="suman-jaiswal" /></p>
 
-<div style="display: flex; gap: 20px">
+<div align="center" style="display: flex; gap: 20px;">
 <img style="height: 200px;" src="https://github-readme-stats.vercel.app/api?username=Suman-Jaiswal&show_icons=true&theme=radical">
-</img>
-  <span style="width: 20px;"> </span>
+</img
 <img style="height: 200px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suman-Jaiswal&layout=compact&theme=tokyonight">
 </img>
 </div>
