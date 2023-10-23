@@ -1,5 +1,7 @@
 ### Welcome to My GitHub Profile! 👋
 
+A passionate Software Developer with a keen interest in Technology Innovations.
+
 <div style="display: flex; flex-direction: row; justify-content: space-between; align-items: center;">
   <h4>  I'm Suman Jaiswal </h4>
  <div style="display: flex; flex-direction: row; gap: 5px; align-items: center;" >
@@ -7,8 +9,6 @@
   <img src="https://komarev.com/ghpvc/?username=suman-jaiswal&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 </div>
-
-A passionate Software Developer with a keen interest in Technology Innovations.
 
 <p align="center">
   <samp>
