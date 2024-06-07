@@ -13,7 +13,7 @@ A passionate Software Developer with a keen interest in Technology Innovations.
 
 <p align="center">
   <samp>
-    「 B.Tech EE @  <b>IIT Indore</b> 」<br>
+    「 SDE II @  <b>Walmart</b> 」<br>
   </samp>
 </p>
 
